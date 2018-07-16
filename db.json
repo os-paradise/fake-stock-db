@@ -1,0 +1,22 @@
+{
+    "stock": [{
+            "id": 1,
+            "name": "pants",
+            "stock": "34",
+            "price": "45"
+        },
+        {
+            "id": 2,
+            "name": "skirts",
+            "stock": "500",
+            "price": "300"
+        },
+        {
+            "id": 3,
+            "name": "Paper toys",
+            "stock": "5400",
+            "price": "100"
+        }
+    ]
+
+}
